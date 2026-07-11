@@ -1,8 +1,8 @@
 cask "gesturemanager" do
-  version "1.0"
-  sha256 "055280fe8b95e38a0e59b6a6be691c4239a94012e31c673910ac995269396034"
+  version "1.1"
+  sha256 "711d0ee490de7912a218909436b05e191aeca0398f095019149610b073e5031c"
 
-  url "https://github.com/seohakim158/GestureManager/releases/download/v1.0/GestureManager.dmg"
+  url "https://github.com/seohakim158/GestureManager/releases/download/v#{version}/GestureManager.dmg"
 
   name "GestureManager"
   desc "Gesture manager for macOS (requires AeroSpace)"
