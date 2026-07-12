@@ -1,6 +1,6 @@
 cask "gesturemanager" do
   version "1.1"
-  sha256 "711d0ee490de7912a218909436b05e191aeca0398f095019149610b073e5031c"
+  sha256 "05ed2b29dd10f1022683d088ba00c4cdabfb7f794a85879d2c5343a0efbabf41"
 
   url "https://github.com/seohakim158/GestureManager/releases/download/v#{version}/GestureManager.dmg"
 
